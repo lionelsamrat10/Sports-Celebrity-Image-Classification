@@ -3,7 +3,6 @@
 """
 Code credit:
 https://towardsdatascience.com/image-scraping-with-python-a96feda8af2d
-Also thanks for Debjyoti Paul (my friend and data scientist at Amazon) for help with this
 """
 
 import time
