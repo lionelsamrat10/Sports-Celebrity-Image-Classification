@@ -1,4 +1,5 @@
 # Sports Celebrity Image Classification
+
 ![](app_screenshot.png)
 
 In this end to end data science and machine learning project, we classify sports personalities. We restrict classification to only 5 people,
