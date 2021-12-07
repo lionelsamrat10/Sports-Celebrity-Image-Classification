@@ -8,14 +8,15 @@ In this end to end data science and machine learning project, we classify sports
 3) Virat Kohli
 4) Roger Federer
 5) Lionel Messi
+Plesae ⭐ this repository if you found it useful.
 
 ### Folder structure
 
-* UI : This contains ui website code 
-* server: Contains the Python flask server related code
-* model: Contains python notebook for model building
-* google_image_scrapping: Contains the code to scrap google for images
-* images_dataset: Dataset used for training our model
+* <b>UI : This contains ui website code</b> 
+* <b>server: Contains the Python flask server related code</b>
+* <b>model: Contains python notebook for model building</b>
+* <b>google_image_scrapping: Contains the code to scrap google for images</b>
+* <b>images_dataset: Dataset used for training our model</b>
 
 ### Technologies used in this project,
 
@@ -50,3 +51,4 @@ Run commands on python terminal or anaconda terimial or any terminal you are usi
 * Now go to the UI Folder and open app.html on the browser. <b>Note that the flask app server must be up and running.</b> 
 * Drag an image of your favourite celebrity from the five and hit the classify button. Our app will predict the celebrity name with his/ her image. It will also show us the percentage match of our image with all the five celebrities. 
 
+Hope you like this project !!! 
