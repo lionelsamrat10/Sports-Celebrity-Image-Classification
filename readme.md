@@ -1,6 +1,6 @@
 # Sports Celebrity Image Classification
 
-![](app_screenshot.png)
+![](https://raw.githubusercontent.com/lionelsamrat10/Sports-Celebrity-Image-Classification/main/app_screenshot.PNG)
 
 In this end to end data science and machine learning project, we classify sports personalities. We restrict classification to only 5 people,
 1) Maria Sharapova
